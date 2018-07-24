@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "amidala.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bb8.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "chewbacca.jpg"
+    },
+    {
+      "id": 4,
+      "image": "darthvader.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "finn.jpg"
+    },
+    {
+      "id": 6,
+      "image": "jabbathehutt.jpg"
+    },
+    {
+      "id": 7,
+      "image": "damselfish.jpg"
+    },
+    {
+      "id": 8,
+      "image": "leia.jpg"
+    },
+    {
+      "id": 9,
+      "image": "lukeskywalker.jpg"
+    },
+    {
+      "id": 10,
+      "image": "obiwankenobi.jpg"
+    },
+    {
+      "id": 11,
+      "image": "quigon.JPG"
+    },
+    {
+      "id": 12,
+      "image": "r2d2.jpg"
+    }
+  ]
+  
